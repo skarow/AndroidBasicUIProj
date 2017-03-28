@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="ch_b_topping">Сметана</string>
+    <string name="hintName">Име</string>
+    <string name="order">Поръчкай</string>
+    <string name="order_summary">Обощено</string>
+    <string name="quantity">Количество</string>
+    <string name="toppings">Добавки</string>
+</resources>
